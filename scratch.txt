@@ -1,0 +1,7 @@
+
+--> Nordic society sponsorship div for main index.html
+
+        <a href="https://royalsociety.org/" target="_blank">
+            <img src="assets/nordic_society_oikos_utan_bringing-min.png" alt="Nordic Society Oikos" style="width: 150px; height: auto;">
+        </a>
+
